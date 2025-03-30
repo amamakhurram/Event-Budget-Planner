@@ -21,15 +21,14 @@ Export budget reports as CSV files
 ## Installation & Setup  
 To run the app locally, follow these steps:  
 
-## 1 Clone the Repository 
-```sh
-git clone https://github.com/yourusername/event-budget-planner.git
-cd event-budget-planner
+ 1 Clone the Repository 
+`git clone https://github.com/yourusername/event-budget-planner.git`
+`cd event-budget-planner`
 
-## 2 Install Dependencies
+ 2 Install Dependencies
 Ensure you have Python 3.8+ installed. Then, install the required libraries:
 
 `pip install -r requirements.txt`
-### 3 Run the App
+ 3 Run the App
 
 `streamlit run event_budget_planner.py`
